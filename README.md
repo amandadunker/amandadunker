@@ -5,6 +5,8 @@ Fun facts:
 * I am named after a soap opera character. :tv:
 * I can play clarinet, some saxophone, and am learning drums. :saxophone:
 * I have seen a UFO. :alien:
+  
+![IMG_2522](https://github.com/amandadunker/amandadunker/assets/93752687/6e4defef-c8dc-4e86-b61c-636fad314927)
 
 <!--
 **amandadunker/amandadunker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
