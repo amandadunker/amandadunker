@@ -1,4 +1,10 @@
-### Hi there 👋
+I am currently earning my M.S. in Data Analysis and Visualization at the CUNY Graduate Center. Before that I was Director of Health Policy at an advocacy organization in New York City focusing on medical debt, coverage for undocumented people, and hospital financial assistance policies. I have an MPP from the University of Chicago and a BA in Media Studies from the University of Buffalo. 
+
+Fun facts: 
+* My cat is named for a Bachelor/Bachelor in Paradise contestant. :sparkling_heart:
+* I am named after a soap opera character. :tv:
+* I can play clarinet, some saxophone, and am learning drums. :saxophone:
+* I have seen a UFO. :alien:
 
 <!--
 **amandadunker/amandadunker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
